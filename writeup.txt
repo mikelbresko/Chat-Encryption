@@ -1,0 +1,2 @@
+Mikel: Programming channel encryption, CA signing, private messaging.
+Abhishek: Helped with CA signing and understanding private messaging but didn't know how to program so help was limited.
